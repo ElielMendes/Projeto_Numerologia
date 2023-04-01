@@ -4,4 +4,4 @@ Nome dos Integrantes:<br>
 <br>Victor Arcanjo de Oliveira RA: 2101450
 <br>David Cunha Alves RA: 2100311
 <br>
-<br>Link do vídeo do site no YouTube: https://youtu.be/7Ya43eicSfA
+<br>Link do vídeo da AC1: https://youtu.be/7Ya43eicSfA
